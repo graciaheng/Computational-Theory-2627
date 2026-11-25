@@ -1,8 +1,8 @@
-# Comp Theory Assessment
+# Comp Theory Assessment WORK IN PROGRESS
 
 ## Overview
 
-This project explores the SHA-256 
+This project explores the SHA-256 problems and content.
 
 ## Running the Notebook
 
